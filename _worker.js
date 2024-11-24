@@ -1,4 +1,5 @@
 // _worker.js
+// test
 
 // Docker镜像仓库主机地址
 let hub_host = 'registry-1.docker.io';
